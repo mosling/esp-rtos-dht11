@@ -31,3 +31,13 @@
 # Debug files
 *.dSYM/
 *.su
+
+# Backup files
+*~
+
+# Binary folder
+.output/
+bin/
+
+# private files
+private_ssid_config.h
